@@ -9,7 +9,7 @@
 ⋅⋅⋅ boardcasting and softmax
 ⋅⋅⋅ L1 L2 norm
 * hmwk2 built a logistic regression on a 209 (m) * 64*64*3 image data set 
-⋅⋅⋅ initialization (zeros init because of logistic reg)
+⋅⋅* initialization (zeros init because of logistic reg)
 ⋅⋅⋅ basic forward and backward prop
 ⋅⋅⋅ Gradient descent
 ⋅⋅⋅ structure/shape of the feeding data. Each col contains a pic,rather than row.
