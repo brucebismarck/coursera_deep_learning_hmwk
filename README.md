@@ -29,3 +29,5 @@
 #### Improving Deep Neural Net
 #### hmwk 6-? belong to coursera deep learning specialization course 1
 * hmwk6 implemented zero, random, he's initialization methods.  Kaiming He's method shows awesome output
+
+* hmwk7 implemented L2 normalization and dropout methods. The backward prop with dropout has some tricky parts. You need to save the D2 amd D1 for A2 and A1 which did dropout, and apply D2 D1 to dA1 and dA2.
