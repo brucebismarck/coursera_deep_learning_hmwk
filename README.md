@@ -24,3 +24,8 @@
   - automatically do loop, forward, backward, cache of A_prev, W, b, grads, parameter update. (based on number of layers)
   - relu vs. sigmoid
   - homework 5 compared performance between two layers and 5 layers NN.
+  
+## Course 2
+#### Improving Deep Neural Net
+#### hmwk 6-? belong to coursera deep learning specialization course 1
+* hmwk6 implemented zero, random, he's initialization methods.  Kaiming He's method shows awesome output
