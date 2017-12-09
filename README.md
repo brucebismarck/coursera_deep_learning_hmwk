@@ -33,3 +33,5 @@
 * hmwk7 implemented L2 normalization and dropout methods. The backward prop with dropout has some tricky parts. You need to save the D2 amd D1 for A2 and A1 which did dropout, and apply D2 D1 to dA1 and dA2.
 
 * hmwk8 implemented gradient check which is meaningless in pytorch LOL. But it still a good practice
+
+* hmwk9 implemented gradient descent, momentem and Adam optimization algorithms in numpy. This might be the last one pynb file mainly completed with numpy
