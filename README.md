@@ -64,7 +64,7 @@ This URL might help you, https://github.com/fchollet/deep-learning-models/releas
        
 * Week 4
   - Homework1. **Art Generation with Neural Style Transfer**
-   - Compute the content cost
+         - Compute the content cost
    - Compute the styple cost
    - Total cost and summarization
    - Optimization and run **interactive session**
