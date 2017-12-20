@@ -25,8 +25,8 @@
   - relu vs. sigmoid
   - homework 5 compared performance between two layers and 5 layers NN.
   
-## Course 2
-#### Improving Deep Neural Net
+## Course 2 
+#### Improving Deep Neural Net Hyper parameter tuning, regularization and optimization
 #### hmwk 6-? belong to coursera deep learning specialization course 1
 * hmwk6 implemented zero, random, he's initialization methods.  Kaiming He's method shows awesome output
 
@@ -37,8 +37,10 @@
 * hmwk9 implemented gradient descent, momentem and Adam optimization algorithms in numpy. This might be the last one pynb file mainly completed with numpy
 
 
+## Course 3. Structuring Machine Learning Projects
+No coding homeworks
 
-## Course 4
+## Course 4 CNN
 * Week1 
   - Homework 1. Implement CONV, PADDING, POOL and forward prop in Numpy.
   - Homework 2. Apply simple Neural Net on SIGNS (finger numbers) dataset, which used in prev DNN model.
@@ -46,7 +48,7 @@
             
 * Week2 
   - Homework1.  Keras Tutorial 
-  - Homework2.  
+  - Homework2.  **Implement ResNet**
   1. Implement Identity block and Conv block. Then build the ResNet50 by stacking these blocks together in Keras (for simplicity)
   2. Highway CNN
   3. Apply model on SIGNS
@@ -68,5 +70,12 @@ This URL might help you, https://github.com/fchollet/deep-learning-models/releas
    2. Compute the styple cost
    3. Total cost and summarization
    4. Optimization and run **interactive session**
-
-  
+ - Homework 2. **Face Recognition and Verification for Happy House**
+   1. Verification. Two emcoded pic (128 vector). Use inception model to do encoding
+   2. Triplet Loss to create training data set and calculate loss function
+   3. Loading trained model. (inception and related)
+   4. For each pic, run the inception model on it, and encode it to a 128 vector. So each pic is represented as a 128 vec
+   5. Save these vec in a dictionay
+   6. By calculate the distance (L2 Norm) and find the smallest dist or say if the dist is smaller than a threshold to tell if we need to open the door.
+   
+## Course 5 RNN Waiting for release.
