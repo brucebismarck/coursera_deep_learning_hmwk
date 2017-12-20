@@ -35,3 +35,38 @@
 * hmwk8 implemented gradient check which is meaningless in pytorch LOL. But it still a good practice
 
 * hmwk9 implemented gradient descent, momentem and Adam optimization algorithms in numpy. This might be the last one pynb file mainly completed with numpy
+
+
+
+## Course 4
+* Week1 
+  - Homework 1. Implement CONV, PADDING, POOL and forward prop in Numpy.
+  - Homework 2. Apply simple Neural Net on SIGNS (finger numbers) dataset, which used in prev DNN model.
+            With CNN, we can train the model to tell thumb up as 1.
+            
+* Week2 
+  - Homework1.  Keras Tutorial 
+  - Homework2.  
+   - Implement Identity block and Conv block. Then build the ResNet50 by stacking these blocks together in Keras (for simplicity)
+    - Highway CNN
+    - Apply model on SIGNS
+To run the ResNet, please download ResNet50.h5 file.
+This URL might help you, https://github.com/fchollet/deep-learning-models/releases
+
+- Week3
+  - Homework1. **Implement of YOLO You only look once.**
+   - Car detection in video
+   - Calculate scores
+   - Filter boxes based on scores
+   - Non-max suppression
+   - Wrap up
+   - Load pretrained model to do detection
+       
+* Week 4
+  - Homework1. **Art Generation with Neural Style Transfer**
+   - Compute the content cost
+   - Compute the styple cost
+   - Total cost and summarization
+   - Optimization and run **interactive session**
+
+  
