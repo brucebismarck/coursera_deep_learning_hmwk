@@ -36,6 +36,7 @@
 
 * hmwk9 implemented gradient descent, momentem and Adam optimization algorithms in numpy. This might be the last one pynb file mainly completed with numpy
 
+* hmwk10 Tensorflow Tutorial
 
 ## Course 3. Structuring Machine Learning Projects
 No coding homeworks
