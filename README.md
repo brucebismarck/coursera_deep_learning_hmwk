@@ -47,26 +47,26 @@
 * Week2 
   - Homework1.  Keras Tutorial 
   - Homework2.  
-   - Implement Identity block and Conv block. Then build the ResNet50 by stacking these blocks together in Keras (for simplicity)
-    - Highway CNN
-    - Apply model on SIGNS
+  1. Implement Identity block and Conv block. Then build the ResNet50 by stacking these blocks together in Keras (for simplicity)
+  2. Highway CNN
+  3. Apply model on SIGNS
 To run the ResNet, please download ResNet50.h5 file.
 This URL might help you, https://github.com/fchollet/deep-learning-models/releases
 
 - Week3
   - Homework1. **Implement of YOLO You only look once.**
-   - Car detection in video
-   - Calculate scores
-   - Filter boxes based on scores
-   - Non-max suppression
-   - Wrap up
-   - Load pretrained model to do detection
+   1. Car detection in video
+   2. Calculate scores
+   3. Filter boxes based on scores
+   4. Non-max suppression
+   5. Wrap up
+   6. Load pretrained model to do detection
        
 * Week 4
   - Homework1. **Art Generation with Neural Style Transfer**
-         - Compute the content cost
-   - Compute the styple cost
-   - Total cost and summarization
-   - Optimization and run **interactive session**
+   1. Compute the content cost
+   2. Compute the styple cost
+   3. Total cost and summarization
+   4. Optimization and run **interactive session**
 
   
